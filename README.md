@@ -68,6 +68,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://www.digitalocean.com/ | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results. |
 | https://www.000webhost.com/ | **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.|
 | https://infinityfree.net/ |**InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site. |
+| https://pages.cloudflare.com/ |**Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -101,6 +102,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fullstackopen.com/en/ |
 | https://upskillcourses.com/courses |
 | https://www.geeksforgeeks.org/web-development/ |
+| https://hackdesign.org/lessons |
 
 [⬆ back to top](#table-of-contents)
 
@@ -223,23 +225,24 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://iconmonstr.com | 
 | https://heroicons.com |
 | https://boxicons.com |
-| https://css.gg/ |
-| https://lineicons.com/ |
-| https://icons.eosdesignsystem.com/ |
+| https://css.gg |
+| https://lineicons.com |
+| https://icons.eosdesignsystem.com |
 | https://icons.modulz.app |
 | https://remixicon.com |
 | https://tablericons.com |
 | https://simpleicons.org |
 | https://feathericons.com |
-| https://svgrepo.com/ |
+| https://svgrepo.com |
 | https://iconic.app |
-| https://icomoon.io/ |
+| https://icomoon.io |
 | https://iconscout.com/unicons |
 | https://holasvg.com/icons |
-| https://fontello.com/ |
-| https://fontastic.me/ |
+| https://fontello.com |
+| https://fontastic.me |
 | https://ionic.io/ionicons |
-| https://icons.getbootstrap.com/ |
+| https://icons.getbootstrap.com |
+|https://react-icons.github.io/react-icons|
 
 [⬆ back to top](#table-of-contents)
 
@@ -254,6 +257,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://ffonts.net |  
 | https://fontfabric.com |  
 | https://urbanfonts.com |  
+| https://www.fontpair.co/ |
 
 [⬆ back to top](#table-of-contents)
 
@@ -284,9 +288,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ) |
 | [Wes Bos](https://www.youtube.com/wesbos) |
 | [DesignCourse](https://www.youtube.com/c/DesignCourse) |
-| [Traversy Media](https://www.youtube.com/c/TraversyMedia)|
 | [codedamn](https://www.youtube.com/c/codedamn) |
 | [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh) |
+| [Fireship](https://www.youtube.com/c/Fireship)|
+| [Codevolution](https://www.youtube.com/c/Codevolution)|
 
 [⬆ back to top](#table-of-contents)
 
@@ -344,8 +349,11 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://htmlcolorcodes.com |
 | https://colorsinspo.com |
 | https://uigradients.com |
-| https://www.colorion.co/ |
+| https://www.colorion.co |
 | https://www.gradientos.app |
+| https://www.eggradients.com |
+| https://cssgradient.io |
+| https://www.0to255.com |
 
 [⬆ back to top](#table-of-contents)
 
@@ -362,6 +370,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://onepagelove.com |
 | https://www.behance.net |
 | https://uidesigndaily.com |
+| https://tympanus.net |
 
 [⬆ back to top](#table-of-contents)
 
@@ -511,8 +520,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | Website | Description |
 | ------- | ------ |
 | [CssLayout](https://csslayout.io/) | A site with multiple css code snippets for very frequently used components in day to day web pages | 
-| [TailGrids](http://tailgrids.com/) | Handcrafted Tailwind CSS UI Components | 
-| [Ayro UI Bootstrap](https://ayroui/) | Bootstrap UI components for modern web apps |
+| [TailGrids](https://tailgrids.com/) | 300+ Free and Premium Tailwind CSS UI Components and Sections | 
+| [Ayro UI Bootstrap](https://ayroui.com/) | Bootstrap UI components, snippets and sections for modern web apps |
 | [UI Hut](https://www.uihut.com/home) | Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc.. | 
 
 
